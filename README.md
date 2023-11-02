@@ -1,2 +1,7 @@
-# Inspired
-GoHugo Theme
+# Theme Name
+
+## Features
+
+## Installation
+
+## Configuration
